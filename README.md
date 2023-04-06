@@ -166,7 +166,9 @@ https://ovenapp.io/project/r4Wlvg8gvXDtp1XVYSAlFtnwvhguqDXf#xtFHs
 ![image](https://user-images.githubusercontent.com/97017840/164224676-eee3f44d-1e4d-4b2e-b67a-d264336e1feb.png)
 
 ### 원종호
-
+- DevOps - Git pull request 
+- Infra Management - Heroku
+- Security 
 
 
 ### 이훈
